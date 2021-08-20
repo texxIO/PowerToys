@@ -24,8 +24,8 @@
   "dependencies": {
     "@svgr/webpack": "^4.3.2",
     "office-ui-fabric-react": "^7.4.3",
-    "react": "~16.8.0",
-    "react-dom": "~16.8.0"
+    "react": "~16.14.0",
+    "react-dom": "~16.14.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.0",
