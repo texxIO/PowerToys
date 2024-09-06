@@ -22,8 +22,8 @@
     "stack:upgrade": "just-scripts upgrade-stack"
   },
   "dependencies": {
-    "@svgr/webpack": "^4.3.2",
-    "office-ui-fabric-react": "^7.4.3",
+    "@svgr/webpack": "^7.0.0",
+    "office-ui-fabric-react": "^7.117.1",
     "react": "~16.8.0",
     "react-dom": "~16.8.0"
   },
